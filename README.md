@@ -1,2 +1,2 @@
-# meteor-playground
+# Meteor Playground
 Playing with MeteorJS
