@@ -1,2 +1,3 @@
 # Meteor Playground
-Playing with MeteorJS
+
+> Playing with MeteorJS
